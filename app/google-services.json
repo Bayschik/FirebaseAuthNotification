@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222368215955",
+    "project_id": "notification-app-9c420",
+    "storage_bucket": "notification-app-9c420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222368215955:android:1619bac221c0eb576e2e66",
+        "android_client_info": {
+          "package_name": "com.geeks.firebasenotif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS4LcRbUiE6EaFUl0YAdcs4ijBGhxYTf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
